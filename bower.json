@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "homepage": "https://github.com/unboxit/hybratchet",
   "authors": [
-    "Gabriel Dumitrescu <gdumitrescu@users.noreply.github.com>"
+    ""
   ],
   "license": "MIT",
   "ignore": [
@@ -14,5 +14,7 @@
     "tests"
   ],
   "dependencies": {
+    "font-awesome": "3.2.1",
+    "ratchet": "~2.0.2"
   }
 }
